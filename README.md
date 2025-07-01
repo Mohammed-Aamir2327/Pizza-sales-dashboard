@@ -41,8 +41,12 @@ The dashboard was created to showcase my data visualization skills and ability t
 
 ---
 
-## Screenshots
+## Dashboard Priview/ Screenshots
 
--Show what the dashboard looks like. - ![Dashboard Preview 1].(https://github.com/Mohammed-Aamir2327/Pizza-sales-dashboard/blob/main/Screenshot%20(29).png
+### Home Page Snapshot
 
-![Dashboard Preview 2].(https://github.com/Mohammed-Aamir2327/Pizza-sales-dashboard/blob/main/Screenshot%20(30).png)
+![Dashboard Priview](https://github.com/Mohammed-Aamir2327/Pizza-sales-dashboard/blob/main/Home%20Page%20Screenshot.png)
+
+### Best and Worst Sales Analysis 
+
+![Dashboard Priview](https://github.com/Mohammed-Aamir2327/Pizza-sales-dashboard/blob/main/Best%20and%20Worst%20Salles.png)
